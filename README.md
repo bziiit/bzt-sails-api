@@ -1,2 +1,3 @@
-# bzt-sails-api
-Api with sails
+# api
+
+a [Sails](http://sailsjs.org) application
